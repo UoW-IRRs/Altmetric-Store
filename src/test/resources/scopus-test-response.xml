@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<search-results xmlns="http://www.w3.org/2005/Atom" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <opensearch:itemsPerPage>1</opensearch:itemsPerPage>
+  <opensearch:Query role="request" searchTerms="DOI%28%2210.1002%2Fjqs.1016%22%29" startPage="0"/>
+  <entry>
+    <link href="http://api.elsevier.com/content/abstract/scopus_id/33846320043" ref="self"/>
+    <link href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&amp;scp=33846320043" ref="scopus"/>
+    <link href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&amp;scp=33846320043" ref="scopus-citedby"/>
+    <prism:url>http://api.elsevier.com/content/abstract/scopus_id/33846320043</prism:url>
+    <dc:identifier>SCOPUS_ID:33846320043</dc:identifier>
+    <eid>2-s2.0-33846320043</eid>
+    <dc:title>Test of AMS 14C dating of pollen concentrates using tephrochronology</dc:title>
+    <dc:creator>Newnham, R.M.</dc:creator>
+    <prism:publicationName>Journal of Quaternary Science</prism:publicationName>
+    <prism:issn>02678179</prism:issn>
+    <prism:eIssn>10991417</prism:eIssn>
+    <prism:volume>22</prism:volume>
+    <prism:issueIdentifier>1</prism:issueIdentifier>
+    <prism:pageRange>37-51</prism:pageRange>
+    <prism:coverDate>2007-01-01</prism:coverDate>
+    <prism:coverDisplayDate>January 2007</prism:coverDisplayDate>
+    <prism:doi>10.1002/jqs.1016</prism:doi>
+    <citedby-count>23</citedby-count>
+    <affiliation>
+      <affilname>University of Plymouth</affilname>
+      <affiliation-city>Plymouth</affiliation-city>
+      <affiliation-country>United Kingdom</affiliation-country>
+    </affiliation>
+    <prism:aggregationType>Journal</prism:aggregationType>
+    <subtype>ar</subtype>
+    <subtypeDescription>Article</subtypeDescription>
+  </entry>
+</search-results>
