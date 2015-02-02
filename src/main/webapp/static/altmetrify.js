@@ -22,12 +22,12 @@ function altmetrify() {
 
             $.getJSON("/altmetrics/from-store.json?handle=" + handle + "&provider=" + provider,
                 function(json) {
-                    if (!json || !('metrics') in json) {
+                    if (!json || !('metrics') in json || !('citedby-count') in json['metrics']) {
                         return true;
                     }
                     var numCitedBy = json['metrics']['citedby-count'];
 
-                    if (parseInt(numCitedBy) < 1) {
+                    if (!numCitedBy || parseInt(numCitedBy) < 1) {
                         return true;
                     }
 
