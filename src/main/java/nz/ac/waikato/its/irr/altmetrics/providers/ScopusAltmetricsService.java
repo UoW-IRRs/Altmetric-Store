@@ -44,7 +44,7 @@ public class ScopusAltmetricsService implements ProviderService {
 	};
 
 
-	private static final String ENDPOINT = "http://api.elsevier.com/content/search/scopus";
+	private static final String ENDPOINT = "https://api.elsevier.com/content/search/scopus";
 	private static final int TIMEOUT = 5000;
 
 	public static final String PROVIDER_NAME = "scopus";
