@@ -85,9 +85,9 @@
   </build>
 
     <scm>
-      <connection>scm:git:git://github.com/lconz-irr/Altmetric-Store.git</connection>
-      <url>https://github.com/lconz-irr/Altmetric-Store</url>
-      <developerConnection>scm:git:ssh://git@github.com/lconz-irr/Altmetric-Store.git</developerConnection>
+      <connection>scm:git:git://github.com/UoW-IRRs/Altmetric-Store.git</connection>
+      <url>https://github.com/UoW-IRRs/Altmetric-Store</url>
+      <developerConnection>scm:git:ssh://git@github.com/UoW-IRRs/Altmetric-Store.git</developerConnection>
     </scm>
 
     <distributionManagement>
