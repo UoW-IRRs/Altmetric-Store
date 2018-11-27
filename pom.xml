@@ -4,7 +4,7 @@
   <groupId>nz.ac.waikato.its.irr</groupId>
   <artifactId>altmetrics-store</artifactId>
   <packaging>war</packaging>
-  <version>0.3</version>
+  <version>0.4-SNAPSHOT</version>
   <name>altmetrics-store Maven Webapp</name>
   <dependencies>
     <dependency>
